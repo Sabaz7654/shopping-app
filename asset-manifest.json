@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/shopping-app/static/js/main.aaf333db.js",
+    "index.html": "/shopping-app/index.html",
+    "main.aaf333db.js.map": "/shopping-app/static/js/main.aaf333db.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.aaf333db.js"
+  ]
+}
